@@ -13,3 +13,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ### Output
 - Simple Interest
+This is a bug fix update.
